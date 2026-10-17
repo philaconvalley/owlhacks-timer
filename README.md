@@ -42,7 +42,7 @@ open index.html
 
 ## License
 
-The code uses the MIT license. See `LICENSE`. The fonts use the SIL Open Font License 1.1. See `fonts/`.
+The code uses the MIT license. See `LICENSE`. The fonts in `fonts/` are not covered by `LICENSE`. Baloo 2 and Nunito use the SIL Open Font License 1.1. See `fonts/OFL-Baloo2.txt` and `fonts/OFL-Nunito.txt`.
 
 ## PhilaCon Valley
 
