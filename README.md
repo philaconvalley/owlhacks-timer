@@ -47,4 +47,4 @@ The code uses the MIT license. See `LICENSE`. The fonts in `fonts/` are not cove
 ## PhilaCon Valley
 
 A Philadelphia tech community, by us, for us. Come build with us:
-[Discord](https://discord.gg/fxUfeSbFZM).
+[Discord](https://philaconvalley.com/discord).

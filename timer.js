@@ -1,7 +1,7 @@
 // Demo timer for hackathon judging. No libraries; works offline.
 
-// OwlHacks '26 invite: lands in #welcome, grants OwlHacks '26 + Neighbor, never expires.
-const COMMUNITY_URL = "https://discord.gg/fxUfeSbFZM";
+// PhilaCon Valley Discord, through the website redirect. It lands in #welcome; the join button gives Neighbor.
+const COMMUNITY_URL = "https://philaconvalley.com/discord";
 
 const WARNING_SECONDS = 10;
 
